@@ -6,7 +6,7 @@ Communication Tracker is a React-based web application designed to help business
 https://github.com/PUTTAVENKATASIVA/ENTNT_PROJECT
 
 ## Deployment Link
-https://shimmering-jalebi-13592f.netlify.app/
+https://shivaentnt.netlify.app/
 ## Prerequisites
 * Node.js (v16.0.0 or later)
 
@@ -107,5 +107,5 @@ Then Upload build file to Netlify
 ## Contact
 PUTTA VENKATASIVA - shivavenkat404@gmail.com
 
-Deployed Project Link: https://shimmering-jalebi-13592f.netlify.app/
+Deployed Project Link: https://shivaentnt.netlify.app/
 
