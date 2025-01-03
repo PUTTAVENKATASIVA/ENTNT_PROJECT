@@ -105,7 +105,7 @@ Then Upload build file to Netlify
 
 
 ## Contact
-PUTTA VENKATASIVA - shivavenkat4042GMAIL.COM
+PUTTA VENKATASIVA - shivavenkat404@gmail.com
 
 Deployed Project Link: https://shimmering-jalebi-13592f.netlify.app/
 
